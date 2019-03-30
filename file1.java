@@ -7,4 +7,6 @@ System.out.println("hello from file1");
 System.out.println("hello from file2");
 }   	#EOF
 }
-
+line1
+line2
+line3
